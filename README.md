@@ -14,7 +14,7 @@ Those settings include configuration for the following mods:
 - ADV Medical (CPR y Splint).
 - GRAD Trenches.
 
-## How to aply those settings to your mission
+## How to apply those settings to your mission
 
 1. Copy the contents of [cba_settings.sqf](cba_settings.sqf) file.
 2. On Eden Editor in Arma 3, Go to `Settings` and then `Addon Options` in the top toolbar.
