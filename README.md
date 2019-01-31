@@ -13,6 +13,7 @@ Those settings include configuration for the following mods:
 - ACEX
 - ADV Medical (CPR y Splint).
 - GRAD Trenches.
+- ACRE2
 
 ## How to apply those settings to your mission
 

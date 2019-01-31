@@ -10,7 +10,7 @@ force ace_advanced_ballistics_simulationInterval = 0.05;
 force ace_advanced_fatigue_enabled = true;
 force ace_advanced_fatigue_enableStaminaBar = true;
 force ace_advanced_fatigue_loadFactor = 1;
-force ace_advanced_fatigue_performanceFactor = 1.8;
+force ace_advanced_fatigue_performanceFactor = 2.05;
 force ace_advanced_fatigue_recoveryFactor = 1.6;
 force ace_advanced_fatigue_swayFactor = 1;
 force ace_advanced_fatigue_terrainGradientFactor = 1;
@@ -146,7 +146,7 @@ force ace_map_gestures_defaultColor = [0,1,1,0.8];
 force ace_map_gestures_defaultLeadColor = [1,0.88,0,0.95];
 force ace_map_gestures_enabled = true;
 force ace_map_gestures_interval = 0.03;
-ace_map_gestures_maxRange = 7;
+force ace_map_gestures_maxRange = 12;
 force ace_map_gestures_nameTextColor = [0.2,0.2,0.2,0.3];
 
 // ACE Map Tools
@@ -183,7 +183,7 @@ force ace_medical_medicSetting_basicEpi = 1;
 force ace_medical_medicSetting_PAK = 1;
 force ace_medical_medicSetting_SurgicalKit = 1;
 force ace_medical_menu_allow = 1;
-force ace_medical_menu_maxRange = 4.5;
+force ace_medical_menu_maxRange = 5;
 force ace_medical_menu_openAfterTreatment = true;
 force ace_medical_menu_useMenu = 1;
 force ace_medical_menuTypeStyle = 0;
@@ -213,7 +213,7 @@ ace_nametags_nametagColorGreen = [0.67,1,0.67,1];
 ace_nametags_nametagColorMain = [1,1,1,1];
 ace_nametags_nametagColorRed = [1,0.67,0.67,1];
 ace_nametags_nametagColorYellow = [1,1,0.67,1];
-force ace_nametags_playerNamesMaxAlpha = 0.75;
+force ace_nametags_playerNamesMaxAlpha = 0.7;
 force ace_nametags_playerNamesViewDistance = 3;
 force ace_nametags_showCursorTagForVehicles = false;
 force ace_nametags_showNamesForAI = false;
@@ -258,7 +258,7 @@ force ace_pylons_timePerPylon = 5;
 // ACE Quick Mount
 force ace_quickmount_distance = 6.5;
 force ace_quickmount_enabled = true;
-ace_quickmount_enableMenu = 3;
+ace_quickmount_enableMenu = 0;
 ace_quickmount_priority = 0;
 force ace_quickmount_speed = 15;
 
@@ -410,7 +410,7 @@ force acex_viewrestriction_modeSelectiveSea = 1;
 force acex_viewrestriction_preserveView = false;
 
 // ACEX Volume
-acex_volume_enabled = false;
+force acex_volume_enabled = true;
 acex_volume_fadeDelay = 1;
 force acex_volume_lowerInVehicles = true;
 acex_volume_reduction = 5;
