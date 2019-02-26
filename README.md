@@ -11,7 +11,7 @@ Those settings include configuration for the following mods:
 
 - ACE3
 - ACEX
-- ADV Medical (CPR y Splint).
+- ADV Medical (CPR & Splint).
 - GRAD Trenches.
 - ACRE2
 
@@ -21,6 +21,9 @@ Those settings include configuration for the following mods:
 2. On Eden Editor in Arma 3, Go to `Settings` and then `Addon Options` in the top toolbar.
 3. Click on `IMPORT` button.
 4. Done, all settings should be applied to the mission.
+
+## Other files
+This repository does also include some variations from the "Official" configuration. That where used to balance some missions or campaigns. Mostly all configurations are based on [cba_settings.sqf](cba_settings.sqf) settings, but some parameters may be changed or added in other missions.
 
 ## WARNING!!
 
